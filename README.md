@@ -68,3 +68,29 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+#
+
+#
+
+# Apexcharts and ReactJS
+
+This is sample project from the [YouTube](https://www.youtube.com/watch?v=JxEyXOlSgV0). ApexChart is an open source library for creating charts to display data. It includes creating simple chart using ReactJS.
+
+### Apexcharts
+
+```
+https://apexcharts.com/
+```
+
+### Apexcharts CDN
+
+```
+https://cdn.jsdelivr.net/npm/apexcharts
+```
+
+### Apexcharts Docs
+
+```
+https://apexcharts.com/docs/react-charts
+```
